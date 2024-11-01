@@ -1,0 +1,4 @@
+Tugas: NodeJS Introduction
+1. Buat program Node.js sederhana yang membaca file teks dan mencetak isinya ke konsol.
+2. Buat server HTTP sederhana dengan Node.js yang merespons "Hello, World!" untuk setiap permintaan.
+3. Buat modul Node.js yang mengekspor fungsi untuk menjumlahkan dua angka, dan impor modul tersebut di file lain.
